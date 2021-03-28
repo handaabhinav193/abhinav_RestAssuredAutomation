@@ -1,0 +1,8 @@
+2019-12-22 20:10:09,018 - com.restAssured.qa.base.RestAssuredAPI_Base - INFO - ***********Sending GET Request**************************
+2019-12-22 20:10:09,068 - com.restAssured.qa.base.RestAssuredAPI_Base - INFO - ************Validating Status Code*************************
+2019-12-22 20:11:19,164 - com.restAssured.qa.base.RestAssuredAPI_Base - INFO - ***********Sending GET Request**************************
+2019-12-22 20:11:19,214 - com.restAssured.qa.base.RestAssuredAPI_Base - INFO - ************Validating Status Code*************************
+2020-02-07 23:24:34,435 - com.restAssured.qa.base.RestAssuredAPI_Base - INFO - ***********Sending GET Request**************************
+2020-02-07 23:24:34,517 - com.restAssured.qa.base.RestAssuredAPI_Base - INFO - ************Validating Status Code*************************
+2020-05-16 23:28:22,973 - com.restAssured.qa.base.RestAssuredAPI_Base - INFO - ***********Sending GET Request**************************
+2020-05-16 23:28:23,137 - com.restAssured.qa.base.RestAssuredAPI_Base - INFO - ************Validating Status Code*************************
